@@ -1,0 +1,8 @@
+PROJECT GROUP 20
+
+MOHIT GOGRI
+SUKRUTI VEMPATI
+
+BUS ARBITRATOR WITH 6 MASTERS AND 7 SLAVES
+
+Project was completed perfectly and everything worked.

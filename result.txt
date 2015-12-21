@@ -1,0 +1,40 @@
+Chronologic VCS simulator copyright 1991-2014
+Contains Synopsys proprietary information.
+Compiler version I-2014.03-2; Runtime version I-2014.03-2;  Nov 29 21:08 2015
+
+     283041 Transfered
+
+	Mst	Sim		Goal
+          0	31.06	         29	 2.06
+          1	 5.21	          6	-0.79
+          2	12.45	         13	-0.55
+          3	10.59	         12	-1.41
+          4	24.59	         24	 0.59
+          5	16.10	         16	 0.10
+
+     284232 Transfered
+
+	Mst	Sim		Goal
+          0	29.25	         29	 0.25
+          1	 5.97	          6	-0.03
+          2	12.80	         13	-0.20
+          3	11.86	         12	-0.14
+          4	24.14	         24	 0.14
+          5	15.98	         16	-0.02
+
+     284423 Transfered
+
+	Mst	Sim		Goal
+          0	29.09	         29	 0.09
+          1	 5.79	          6	-0.21
+          2	13.12	         13	 0.12
+          3	12.11	         12	 0.11
+          4	23.85	         24	-0.15
+          5	16.04	         16	 0.04
+I think it worked
+$finish called from file "tb20g.sv", line 289.
+$finish at simulation time           1419778600
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 14197786000 ps
+CPU Time:      9.580 seconds;       Data structure size:   0.0Mb
+Sun Nov 29 21:10:37 2015
